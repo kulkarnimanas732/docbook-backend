@@ -89,11 +89,3 @@ Built with ❤️ by **Manas Kulkarni**
 
 ---
 
-```
-
-Let me know if you'd like:
-
-- GitHub badges (like “Made with Node.js”, “MongoDB”, etc.)
-- This README converted to a PDF
-- A `Postman` collection or example API test suite
-```
